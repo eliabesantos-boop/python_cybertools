@@ -14,7 +14,7 @@ Um scanner de vulnerabilidades simples e customizado feito em Python. Varre port
 1. Clone este repositório:
 
 Abra o terminal e digite:
-git clone https://github.com/eliabesantos-boop/pyscanner.git
+git clone https://github.com/eliabesantos-boop/python_cybertools
 cd pyscanner
 
 2. Instale os requisitos
